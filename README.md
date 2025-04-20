@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @kman9787
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Webpack
 
 <!---
 kman9787/kman9787 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
